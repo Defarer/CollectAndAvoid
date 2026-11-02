@@ -4,5 +4,8 @@ Intermediate/
 Saved/
 DerivedDataCache/
 
+# Visual Studio
+.vs/
+
 # JetBrains Rider
 .idea/
