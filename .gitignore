@@ -1,0 +1,8 @@
+# Unreal Engine generated files
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# JetBrains Rider
+.idea/
